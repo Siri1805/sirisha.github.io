@@ -89,7 +89,7 @@ header .user img{
 
 header .user .nm{
     font-size:3rem;
-    color: rgb(247, 11, 207);;
+    color: rgb(27, 11, 247);;
 }
 
 header .user .jb{
@@ -135,7 +135,7 @@ header .nv ul li a:hover{
 
 .Details .Row .det h3{
     font-size: 2rem;
-    color: rgb(34, 20, 231);
+    color: rgb(241, 126, 31);
     padding: 1rem 0;
     font-weight: normal;
 }
@@ -173,12 +173,12 @@ table{
 #lis li{
     margin: 0 9rem;
     color:white;
-    font-size: 15px;
+    font-size: 20px;
     padding: .5rem 1rem;
 }
 #lis li{
     margin: 0 9rem;
     color:white;
-    font-size: 15px;
+    font-size: 20px;
     padding: .5rem 1rem;
 }
